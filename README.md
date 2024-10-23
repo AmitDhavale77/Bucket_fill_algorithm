@@ -8,8 +8,7 @@ The core functionality is implemented in the fill() function in the bucket_fill.
 
 Recursive Approach
 
-Algorithm
-The recursive approach works as follows:
+The recursive approach algorithm works as follows:
 
 Base Case:
 If the current cell is out of bounds or already filled with the new color, the function returns immediately.
